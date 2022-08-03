@@ -26,5 +26,5 @@ All prizes are form aliexpress or amanzon. If (free) is added just mean that I a
 
 | Component | CASE 1 | CASE 2 | CASE 3 | CASE 4 | CASE 5 | CASE 6 | CASE 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Procesor | Synology: 170e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 174e |
+| Procesor | Synology: 220e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 174e |
 
