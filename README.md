@@ -20,3 +20,11 @@ Study cases will be defined in the next lines:
 - CASE 5: ownDIY. Case 3 modified toavoid using PSU
 - CASE 6: hDiy. Raspi+ Sata hat
 - CASE 7: Odroid HC4
+
+# 3.- Analysis
+All prizes are form aliexpress or amanzon. If (free) is added just mean that I already has this hardware and for my own analysis the cost doesn't matter.
+
+| Component | CASE 1 | CASE 2 | CASE 3 | CASE 4 | CASE 5 | CASE 6 | CASE 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Procesor | Synology: 170e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 174e |
+
