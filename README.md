@@ -18,3 +18,5 @@ Study cases will be defined in the next lines:
 - CASE 3: fDiy. Called "f" due to the creator is French. No welder skill are required, 3D printer are needed. Source: https://youtu.be/suCkt-MaWJs
 - CASE 4: Docker station. Just use a doker to feed hdd.
 - CASE 5: ownDIY. Case 3 modified toavoid using PSU
+- CASE 6: hDiy. Raspi+ Sata hat
+- CASE 7: Odroid HC4
