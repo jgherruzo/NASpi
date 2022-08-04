@@ -26,5 +26,10 @@ All prizes are form aliexpress or amanzon. If (free) is added just mean that I a
 
 | Component | CASE 1 | CASE 2 | CASE 3 | CASE 4 | CASE 5 | CASE 6 | CASE 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Procesor | Synology: 220e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 174e |
+| Procesor | Synology: 200e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 120e |
+| Power supply | included | 12v 5Amp : 11e | PSU <150W: 50e (free) | rpi 3b+: 7e (free) | usb PSU: 40e | usb PSU: 40e | 15V 4Amp: 17e |
+| Power conector | included | XL4005: 3e | jack conector: e3 | included | included | included | included |
+| Sata link | --- | --- | --- | --- | --- | --- | --- |
+| Sata Conector | --- | --- | --- | --- | --- | --- | --- |
+| Case | --- | --- | --- | --- | --- | --- | --- |
 
