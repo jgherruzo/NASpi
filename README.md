@@ -29,9 +29,9 @@ All prizes are form aliexpress or amanzon. If (free) is added just mean that I a
 | Procesor | Synology: 200e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 120e |
 | Power supply | included | 12v 5Amp : 11e | PSU <150W: 50e (free) | rpi 3b+: 7e (free) | usb PSU: 40e | usb PSU: 40e | 15V 4Amp: 17e |
 | Power conector | included | XL4005: 3e | jack connector: 4e | included | included | included | included |
-| Sata link | --- | --- | --- | --- | --- | --- | --- |
-| Sata Conector | --- | --- | --- | --- | --- | --- | --- |
-| Case | --- | --- | --- | --- | --- | --- | --- |
+| Sata link | included | Sata a USB: 4.1e | Sata a USB with jack: 9.36e | --- | --- | --- | --- |
+| Sata Conector | included | included | Included | --- | --- | --- | --- |
+| Case | included | Printed: 4e | Printed: 4e | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TOTAL | 200e | --- | --- | --- | --- | --- | --- |
+| TOTAL | 200e | 222e (22e) | 219e (19e) | --- | --- | --- | 137e |
 
