@@ -29,9 +29,11 @@ All prizes are form aliexpress or amanzon. If (free) is added just mean that I a
 | Procesor | Synology: 200e | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | rpi 3b+: 200e (free) | Odroid hc4: 120e |
 | Power supply | included | 12v 5Amp : 11e | PSU <150W: 50e (free) | rpi 3b+: 7e (free) | usb PSU: 40e | usb PSU: 40e | 15V 4Amp: 17e |
 | Power conector | included | XL4005: 3e | jack connector: 4e | included | included | included | included |
-| Sata link | included | Sata a USB: 4.1e | Sata a USB with jack: 9.36e | --- | --- | --- | --- |
-| Sata Conector | included | included | Included | --- | --- | --- | --- |
-| Case | included | Printed: 4e | Printed: 4e | --- | --- | --- | --- |
+| Sata link | included | Sata a USB: 4.1e | Sata a USB with jack: 9.36e | included | Sata doble USB:6.16 | Sata hat: 55e | included |
+| Sata Conector | included | included | Included | Docker station: 34e | included | included | included |
+| Case | included | Printed: 4e | Printed: 4e | not required | Printed: 4e | Printed: 4e | included |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TOTAL | 200e | 222e (22e) | 219e (19e) | --- | --- | --- | 137e |
+| TOTAL | 200e | 222e (22e) | 219e (19e) | 245 (45e) | 250 (50e) | 299e (99e) | 137e |
 
+# 4.- Conclusions
+If rpi is available, cases 2 or 3 could be the best option. In my case, I finally choose Odroid. This board has 4gb RAM that will help me with some docker apps like NodeRED or Grocy without problems
